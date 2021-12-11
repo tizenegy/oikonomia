@@ -1,4 +1,7 @@
 {
   "name": "oikonomia",
-  "packageManager": "yarn@3.1.1"
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "@nrwl/cli": "^13.3.1"
+  }
 }
